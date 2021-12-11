@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Fit King</string>
+    <string name="body_building">Body Building</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="men">Men</string>
+    <string name="women">Women</string>
+    <string name="exercises_for_women">Exercises For Women</string>
+    <string name="exercises_for_men">Exercises For Men</string>
+    <string name="chest">Chest</string>
+    <string name="lats">Lats</string>
+    <string name="glutes">Glutes</string>
+    <string name="forearm">Forearm</string>
+    <string name="abs">Abs</string>
+    <string name="leg">Leg</string>
+    <string name="shoulder">Shoulder</string>
+    <string name="neck">Neck</string>
+    <string name="fit_king1">Fit king</string>
+    <string name="this_diet_plan_is_not_same_for_all_if_you_want_to_customise_the_diet_plan_according_to_your_weight_and_age_feel_free_to_contact_us">*This diet plan is not same for all.If you want to customise the diet plan according to your weight and age, feel free to contact us</string>
+    <string name="chapati_2_3_vegitables_1_katori_dal_1_katori">Chapati (2–3), Vegetables(1 katori),Dal(1 Katori)</string>
+    <string name="dinner">Dinner</string>
+    <string name="vegitable_soup_chicken_soup_1_soup_bowl">Vegetable soup/Chicken soup(1 soup bowl)</string>
+    <string name="banana_shake_1_glass_upma_roasted_channa_1_katori">Banana shake(1 glass),Upma/Roasted Channa(1 Katori)</string>
+    <string name="pre_dinner">Pre-Dinner</string>
+    <string name="chapati_2_3_rice_2_katori_vegitables_1_katori_curd_1_katori">Chapati (2–3)/ Rice(2 katori), Vegetables(1 Katori),Curd (1 Katori)</string>
+    <string name="banana_milkshake_1_glass_vegitable_daliya_vegitable_oats_1_bowl_multigrain_bread_2_slices_panner_30gm">Banana milkshake (1 glass), Vegetable daliya/Vegetable oats(1 bowl)/Multigrain bread(2 slices)/Panner(30gm)</string>
+    <string name="_5_almonds_soaked_in_water_overnight_with_the_peel">5 Almonds(soaked in water overnight with the peel)</string>
+    <string name="do_2_sets_of_each_exercise_1_set_10_reps">Do 2 sets of each exercise (1 set = 10 reps)</string>
+    <string name="fit_king">FIT KING</string>
+    <string name="weight_loss">Weight Loss</string>
+    <string name="diet_plans">Diet Plans</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="rating">Rating</string>
+    <string name="share_app">Share App</string>
+    <string name="our_more_apps">Our More Apps</string>
+
+</resources>
